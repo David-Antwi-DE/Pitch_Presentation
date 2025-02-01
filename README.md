@@ -15,7 +15,7 @@ Project Overview and Value Proposition
 Example: We propose a system to identify customers likely to leave in the next few months. By targeting these customers with special offers, we can potentially increase retention by 5% and boost revenue by £10,000.
 Timeline for MVP (Minimum Viable Product)
 
-## Duration: Estimate the time required for each phase of the project, including data gathering, analysis, model building, and deployment.
+### Duration: Estimate the time required for each phase of the project, including data gathering, analysis, model building, and deployment.
 Example: We anticipate the MVP will take approximately 8 weeks to complete.
 
 ## Success Metrics
